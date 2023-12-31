@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nagendra-babu-g-294a26221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagendra-babu-g-294a26221" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nagendra_12031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nagendra_12031" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nagendrababu009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nagendrababu009" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nbg_1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nagendrababu009" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gnagendrababu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnagendrababu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gnagendrababu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gnagendrababu" height="30" width="40" /></a>
 </p>
